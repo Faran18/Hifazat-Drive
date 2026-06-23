@@ -1,0 +1,11 @@
+.venv/
+
+__pycache__/
+
+CWS.pt
+
+yolo_dms.onnx
+
+yolo_classes.json
+
+face_landmarker.task
